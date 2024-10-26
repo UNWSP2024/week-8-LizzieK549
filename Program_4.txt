@@ -1,0 +1,8 @@
+Initialize the dictionary "courses" to store user input
+prompt users for information pertaining to a course including: course ID, course name, and course subject
+continue to prompt users for information until user enters the word done
+Once user enters the word "done", prompt user to enter the subject for the course they would like to search
+Create a flag to check if course exists by using true or false
+If the course ID exists, display course Id and course name
+then set flag to true so it will not display "no course found"
+If no course found, display message "No course Found"
